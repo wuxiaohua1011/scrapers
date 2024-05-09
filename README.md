@@ -1,11 +1,16 @@
 Quick start
 
+0. open terminal and clone the repo
+```
+git clone https://github.com/wuxiaohua1011/scrapers
+```
+
 1. create virtual env
 ```
 conda create -n scraper python=3.10
 ```
-2. install requirements
+1. install requirements
 ```
 pip install -r requirements.txt
 ```
-3. run any of the notebook
+1. run any of the notebook
